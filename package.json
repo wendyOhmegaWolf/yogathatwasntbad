@@ -1,0 +1,24 @@
+{
+  "name": "yogathatwasntbad",
+  "version": "1.0.0",
+  "description": "Yoga Organized Simply",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendyOhmegaWolf/yogathatwasntbad.git"
+  },
+  "author": "wendynestlerode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendyOhmegaWolf/yogathatwasntbad/issues"
+  },
+  "homepage": "https://github.com/wendyOhmegaWolf/yogathatwasntbad#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
