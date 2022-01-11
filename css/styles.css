@@ -1,10 +1,16 @@
-.navbar {
-    background-color: #901CAD;
-}
-
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, purple, blue, teal);
+    background-image: linear-gradient(to right, rgb(0, 128, 43), rgb(191, 214, 106), rgba(153, 0, 255, 0.418), teal);
     color: white;
+}
+
+.navbar {
+    background-color: #312faf;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
 }
