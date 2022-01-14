@@ -19,3 +19,7 @@
     background-image: linear-gradient(#cec8ff, white);
     padding: 20px 0; 
 }
+
+div h3, div p {
+    color: rgb(133, 211, 16);
+}
