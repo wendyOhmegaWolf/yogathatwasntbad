@@ -1,3 +1,14 @@
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
+.carousel-item img {
+    opacity: 0.8;
+}
+
 .jumbotron {
     margin: 0;
     padding: 30px;
@@ -21,5 +32,16 @@
 }
 
 div h3, div p {
-    color: rgb(133, 211, 16);
+    /* color: rgb(133, 211, 16); */
+    color: black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: black;
+}
+
+div p {
+    color: black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: black;
 }
